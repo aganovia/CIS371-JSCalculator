@@ -1,0 +1,20 @@
+{
+  "name": "cis371-jscalculator",
+  "version": "1.0.0",
+  "description": "A running calculator program in Javascript",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "clear && node calculator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aganovia/CIS371-JSCalculator.git"
+  },
+  "author": "Amela Aganovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aganovia/CIS371-JSCalculator/issues"
+  },
+  "homepage": "https://github.com/aganovia/CIS371-JSCalculator#readme"
+}
